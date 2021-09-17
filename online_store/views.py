@@ -11,7 +11,8 @@ class IndexListView(ListView):
     ordering = '?'
     paginate_by = 3
     template_name = 'online_store/index.html'
-
+sdflkjslfkd;sf
+ssdgfsg
 
 class CatalogListView(ListView):
     """
